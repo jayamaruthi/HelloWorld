@@ -1,2 +1,2 @@
 # HelloWorld
-A trial Hellow world version
+Lets give a try how the commit works in GIT
